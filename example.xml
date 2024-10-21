@@ -1,0 +1,22 @@
+<vehicles>
+   <car name = "BMW">
+      <model>850 CSI</model>
+      <speed>1000</speed>
+      <special>First Class Audio</special>
+   </car>
+      <car name = "Mercedes">
+      <model>SL65</model>
+      <speed>900</speed>
+      <special>Elegant Ride</special>
+   </car>
+      <car name = "Jaguar">
+      <model>EV400</model>
+      <speed>850</speed>
+      <special>Turbo Mode</special>
+   </car>
+      <car name = "Ferrari">
+      <model>Enzo</model>
+      <speed>2</speed>
+      <special>Racecar Suspension</special>
+   </car>
+</vehicles>
